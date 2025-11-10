@@ -1,7 +1,7 @@
 # $LILTOKEN: "Say Hello to My Lil Token!"
 
 ![Banner](https://img.shields.io/badge/The%20World%20Is-Yours-00ff88?style=for-the-badge)
-![Ethereum](https://img.shields.io/badge/Ethereum-ERC--20-blue?style=for-the-badge&logo=ethereum)
+![Solana (via pump.fun)](https://img.shields.io/badge/Solana (via pump.fun)-ERC--20-blue?style=for-the-badge&logo=Solana (via pump.fun))
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ## 🎬 About $LILTOKEN
@@ -20,9 +20,9 @@ Official white paper and resources for **$LILTOKEN** - A decentralized meme coin
 ## 🪙 Token Details
 
 - **Token Name:** $LILTOKEN
-- **Symbol:** $LIL
-- **Total Supply:** 1,000,000,000 $LIL
-- **Blockchain:** Ethereum (ERC-20)
+- **Symbol:** $LILTOKEN
+- **Total Supply:** 1,000,000,000 $LILTOKEN
+- **Blockchain:** Solana (via pump.fun) (SPL Token (pump.fun))
 - **Contract Address:** *Coming Soon*
 
 ## 💎 Key Features
@@ -45,9 +45,10 @@ Token holders vote on project direction and upgrades.
 ## 🗺️ Roadmap
 
 **Phase 1: Launch**
-- Contract deployment
+
+- Contract address drop (coming soon)
 - Marketing campaign (blimp, social media)
-- Community airdrop
+- Community airdrop and initial distribution
 
 **Phase 2: Community Building**
 - Staking platform launch
@@ -64,45 +65,16 @@ Token holders vote on project direction and upgrades.
 - Environmental projects
 - Long-term value creation
 
-## 📄 White Paper
-
-Read the full white paper: [View White Paper](/docs/whitepaper.md)
-
-## 🤝 Contributing
-
-We welcome contributions from the community!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-See [CONTRIBUTING.md](/community/CONTRIBUTING.md) for detailed guidelines.
-
-## 🔒 Security
-
-- Smart contracts will be audited by leading firms (Hashlock, Certik, ConsenSys Diligence)
-- All code is open-source and publicly verifiable
-- Security reports: Please use GitHub Issues for transparency
-
 ## 🌐 Community Links
 
 - **Website:** Coming Soon
-- **Twitter/X:** Coming Soon
+- **Twitter/X:** [@Mr_MOONTANA01](https://x.com/Mr_MOONTANA01)
+- **Telegram:** [t.me/hellomyliltoken](https://t.me/hellomyliltoken)
 - **Discord:** Coming Soon
-- **Telegram:** Coming Soon
-
-## ⚖️ Legal
-
-$LILTOKEN is a meme coin created for entertainment and community purposes. This is not financial advice. Please read our full legal disclaimer in the white paper.
-
-## 📜 License
-
-This project is open-source. See [LICENSE](LICENSE) for details.
 
 ---
 
 *"The world is yours. Join the movement!"*
 
-**#LILTOKEN #Scarface #MemeCoins #Ethereum #Crypto**
+**#LILTOKEN #Scarface #MemeCoins #Solana #Crypto**
+- Pre-launch preparation and community building
