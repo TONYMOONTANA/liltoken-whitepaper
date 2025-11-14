@@ -28,12 +28,12 @@ Official white paper and resources for **$LILTOKEN** - A decentralized meme coin
 ## 💎 Key Features
 
 ### Cocaine Burn Mechanism
-*"I bury those cockroaches."*
+*"I bury those BlockRoaches."*
 
 A portion of tokens is burned with every transaction, reducing supply and increasing scarcity.
 
 ### Staking Rewards
-*"First you get the money, then you get the power."*
+*"First you get the liquidity, then you get the volume, then you get the power."*
 
 Long-term holders earn exclusive rewards and NFTs.
 
