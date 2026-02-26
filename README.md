@@ -22,7 +22,7 @@ Official white paper and resources for **$LILTOKEN** - A decentralized meme coin
 - **Total Supply:** 1,000,000,000 $LILTOKEN
 - **Blockchain:** Solana
 - **Platform:** [pump.fun](https://pump.fun)
-- **Contract Address:** Coming Soon
+- **Contract Address:** `ATjvGVoePK4Y4xYCDFCgthuxkXAZnzeDsqJKcaZ2ofUg`
 
 ## 🚀 We Are LIVE on pump.fun!
 
@@ -78,7 +78,7 @@ Token holders vote on project direction and upgrades.
 
 ## 🌐 Community Links
 
-- **pump.fun:** [Buy $LILTOKEN on pump.fun](https://pump.fun)
+- **pump.fun:** [Buy $LILTOKEN on pump.fun](https://pump.fun/coin/ATjvGVoePK4Y4xYCDFCgthuxkXAZnzeDsqJKcaZ2ofUg)
 - **Website:** Coming Soon
 - **Twitter/X:** [@Mr_MOONTANA01](https://x.com/Mr_MOONTANA01)
 - **Telegram:** [t.me/hellomyliltoken](https://t.me/hellomyliltoken)
