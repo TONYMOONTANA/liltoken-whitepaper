@@ -1,8 +1,6 @@
 # $LILTOKEN: "Say Hello to My Lil Token!"
 
-![Banner](https://img.shields.io/badge/The%20World%20Is-Yours-00ff88?style=for-the-badge)
-![Solana (via pump.fun)](https://img.shields.io/badge/Solana (via pump.fun)-ERC--20-blue?style=for-the-badge&logo=Solana (via pump.fun))
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+[![Banner](https://img.shields.io/badge/The%20World%20Is-Yours-00ff88?style=for-the-badge)](https://img.shields.io/badge/The%20World%20Is-Yours-00ff88?style=for-the-badge) [![Solana](https://img.shields.io/badge/Solana-pump.fun-blue?style=for-the-badge&logo=solana)](https://pump.fun) [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://img.shields.io/badge/Status-Active-success?style=for-the-badge) [![Launched](https://img.shields.io/badge/Launched-pump.fun-green?style=for-the-badge)](https://pump.fun)
 
 ## 🎬 About $LILTOKEN
 
@@ -22,59 +20,70 @@ Official white paper and resources for **$LILTOKEN** - A decentralized meme coin
 - **Token Name:** $LILTOKEN
 - **Symbol:** $LILTOKEN
 - **Total Supply:** 1,000,000,000 $LILTOKEN
-- **Blockchain:** Solana (via pump.fun) (SPL Token (pump.fun))
-- **Contract Address:** *Coming Soon*
+- **Blockchain:** Solana
+- **Platform:** [pump.fun](https://pump.fun)
+- **Contract Address:** Coming Soon
 
-## 💎 Key Features
+## 🚀 We Are LIVE on pump.fun!
+
+**$LILTOKEN has officially launched on [pump.fun](https://pump.fun)!**
+
+"Say hello to my lil token!" - The world is yours. $LILTOKEN is now live and trading on pump.fun. Join the movement and be part of the Scarface-inspired crypto revolution on Solana.
+
+## 💸 Key Features
 
 ### Cocaine Burn Mechanism
+
 *"I bury those BlockRoaches."*
 
 A portion of tokens is burned with every transaction, reducing supply and increasing scarcity.
 
 ### Staking Rewards
+
 *"First you get the liquidity, then you get the volume, then you get the power."*
 
 Long-term holders earn exclusive rewards and NFTs.
 
 ### Community Governance
+
 *"You wanna piece of my action? You gotta go through me."*
 
 Token holders vote on project direction and upgrades.
 
 ## 🗺️ Roadmap
 
-**Phase 1: Launch**
+**Phase 1: Launch** ✅
 
-- Contract address drop (coming soon)
-- Marketing campaign (blimp, social media)
-- Community airdrop and initial distribution
+- ✅ Token launched on pump.fun
+- ✅ Marketing campaign (blimp, social media)
+- ✅ Community airdrop and initial distribution
 
 **Phase 2: Community Building**
+
 - Staking platform launch
 - Governance implementation
 - Social platform expansion
 
 **Phase 3: Utility Expansion**
+
 - NFT marketplace integration
 - Strategic partnerships
 - Merchandise launch
 
 **Phase 4: Sustainability**
+
 - Charity initiatives
 - Environmental projects
 - Long-term value creation
 
 ## 🌐 Community Links
 
+- **pump.fun:** [Buy $LILTOKEN on pump.fun](https://pump.fun)
 - **Website:** Coming Soon
 - **Twitter/X:** [@Mr_MOONTANA01](https://x.com/Mr_MOONTANA01)
 - **Telegram:** [t.me/hellomyliltoken](https://t.me/hellomyliltoken)
 - **Discord:** Coming Soon
 
----
-
 *"The world is yours. Join the movement!"*
 
-**#LILTOKEN #Scarface #MemeCoins #Solana #Crypto**
-- Pre-launch preparation and community building
+**#LILTOKEN #Scarface #MemeCoins #Solana #Crypto #PumpFun**
